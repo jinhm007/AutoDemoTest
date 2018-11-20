@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 import java.util.Arrays;
 
-@ComponentScan("com.course.server")
+@ComponentScan("com.course")
 @SpringBootApplication
 public class Application {
 
